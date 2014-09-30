@@ -1,0 +1,203 @@
+window.__imported__ = window.__imported__ || {};
+window.__imported__["Radial_Menu/layers.json.js"] = [
+	{
+		"id": 3,
+		"name": "BG",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 640,
+			"height": 1136
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/BG.png",
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"width": 640,
+				"height": 1136
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "1382538943"
+	},
+	{
+		"id": 24,
+		"name": "Cam",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 640,
+			"height": 1136
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/Cam.png",
+			"frame": {
+				"x": 79,
+				"y": 967,
+				"width": 92,
+				"height": 91
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "1754482786"
+	},
+	{
+		"id": 26,
+		"name": "Map",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 640,
+			"height": 1136
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/Map.png",
+			"frame": {
+				"x": 79,
+				"y": 969,
+				"width": 92,
+				"height": 91
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "1549869043"
+	},
+	{
+		"id": 28,
+		"name": "Cal",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 640,
+			"height": 1136
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/Cal.png",
+			"frame": {
+				"x": 72,
+				"y": 980,
+				"width": 92,
+				"height": 91
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "1759569464"
+	},
+	{
+		"id": 30,
+		"name": "Chat",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 640,
+			"height": 1136
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/Chat.png",
+			"frame": {
+				"x": 78,
+				"y": 983,
+				"width": 92,
+				"height": 91
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "576421380"
+	},
+	{
+		"id": 32,
+		"name": "Video",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 640,
+			"height": 1136
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/Video.png",
+			"frame": {
+				"x": 71,
+				"y": 972,
+				"width": 92,
+				"height": 91
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "215417784"
+	},
+	{
+		"id": 18,
+		"name": "Plus",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 640,
+			"height": 1136
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/Plus.png",
+			"frame": {
+				"x": 57,
+				"y": 952,
+				"width": 130,
+				"height": 130
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "1007200999"
+	},
+	{
+		"id": 38,
+		"name": "Text",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 640,
+			"height": 1136
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/Text.png",
+			"frame": {
+				"x": 210,
+				"y": 212,
+				"width": 248,
+				"height": 143
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "631117517"
+	}
+]
